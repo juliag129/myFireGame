@@ -17,4 +17,4 @@ you have a few seconds to move before the fire starts to move upward and follow 
 the platforms and avoid touching the blades, rocks, and spikes while you run from the fire. You
 are given three lives.
 
-![Image of Game](fire.png)
+![Image of Game](fire.PNG)
