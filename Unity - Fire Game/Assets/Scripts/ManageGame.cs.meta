@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7a04f4db24229734da661d67a15b180c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - L1Platforms: {instanceID: 0}
+  - playerPrefab: {instanceID: 0}
+  - clonePlayer: {instanceID: 0}
+  - winText: {instanceID: 0}
+  - loseText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

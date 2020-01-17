@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 1to2
+  - movingCollider
+  - fire
+  - win
+  - spike
+  - blade
+  - Rock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2067018503
+    locked: 0
+  - name: ground
+    uniqueID: 1146872803
+    locked: 0
+  - name: spikes
+    uniqueID: 2980666905
+    locked: 0
+  - name: blade
+    uniqueID: 1229367757
+    locked: 0
+  - name: platforms
+    uniqueID: 3983329643
+    locked: 0
+  - name: rock
+    uniqueID: 1476722931
+    locked: 0
+  - name: player
+    uniqueID: 4264369669
+    locked: 0
+  - name: fire2
+    uniqueID: 3410943133
+    locked: 0
+  - name: fire
+    uniqueID: 3660833019
+    locked: 0
+  - name: canvas
+    uniqueID: 1741434359
+    locked: 0
