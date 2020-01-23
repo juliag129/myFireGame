@@ -18,4 +18,3 @@ the platforms and avoid touching the blades, rocks, and spikes while you run fro
 are given three lives.
 
 <img src="fire.PNG" width="400">
-![Image of Game](fire.PNG)
